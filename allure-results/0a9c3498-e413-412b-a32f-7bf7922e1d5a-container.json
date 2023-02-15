@@ -1,0 +1,1 @@
+{"uuid":"0a9c3498-e413-412b-a32f-7bf7922e1d5a","name":"Tests.VesselOperations","children":["fc2800fd-9898-4faa-b306-10d7c21dd488"],"befores":[],"afters":[{"name":"generateReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673001096024,"stop":1673001096024}],"start":1673001001939,"stop":1673001096029}
